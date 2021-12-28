@@ -21,3 +21,6 @@ we will apply what we took in our 401 course including:
 5. JWT (Authentication)
 6. Docker
 7. Vercel and Heroku
+8. Trello
+9. Figma
+
