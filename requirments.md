@@ -41,3 +41,8 @@ Make profile designs customizable, so the users will be more attached and encour
 4.	The user can explore friends
 5.	He can add friends and delete them
 6.	He can contact friends 
+
+
+## Database Schema
+
+![Database Components](image.png)
