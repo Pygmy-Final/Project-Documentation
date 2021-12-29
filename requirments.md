@@ -1,4 +1,4 @@
-# Requirments
+# WireFrame & Requirments
 
 ## USER STORIES: 
 - As a user, I want to be able to explore events that match my interests, so that I can participate in them.
@@ -6,6 +6,15 @@
 - As a user, I want to be able to create events with specific categories, so that poeple who are interested in these categories can participate in these events.
 - As a user, I want to find poeple who have common intrests with me, so that I can connect with them.
 - As a user, I want to be able to contact other users, so that I can make new friends and plan events with them.
+
+## WireFrame
+
+![wireFrame](wireFrame1.png)
+
+![wireFrame2](wireFrame2.png)
+
+![wireFrame](wireFrame3.png)
+
 
 ## Vision
 
