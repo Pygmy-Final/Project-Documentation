@@ -11,9 +11,9 @@
 
 ![wireFrame](wireFrame1.png)
 
-![wireFrame2](wireFrame2.png)
+![wireFrame2](wireFrame2.PNG)
 
-![wireFrame](wireFrame3.png)
+![wireFrame](wireFrame3.PNG)
 
 
 ## Vision
